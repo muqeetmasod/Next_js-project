@@ -1,5 +1,5 @@
 export default function Home() {
   return (
-        <div>Hello World</div>
+        <div>deploying my project using github</div>
   );
 }
